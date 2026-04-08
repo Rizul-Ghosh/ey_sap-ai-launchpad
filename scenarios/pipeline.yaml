@@ -20,7 +20,7 @@ metadata:
 
     scenarios.ai.sap.com/id: "learning"
 
-    ai.sap.com/version: "1.0"
+    ai.sap.com/version: "2.0"
 
 spec:
 
@@ -52,5 +52,5 @@ spec:
 
        - |
 
-        print("Hello from SAP AI Core")
+        print("Version 2.0 update")
  
